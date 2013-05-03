@@ -16,7 +16,7 @@ The project features a flexbiel responsive grid based on the [Susy "Magic" grid 
 
 Start by installing [Bundler](http://gembundler.com/), if you don't already have it:
 
-Then do a ```bundle install``` to install the required gems -- even Middleman itself!
+Then do a ```bundle install``` to install the required gems -- even Middleman itself! On some systems (particularly Linux), you may need to [install Node.js through your package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager).
 
 Use ```middleman``` to do your live development and ```middleman build``` to render your static file output to the ```/build/``` directory.
 
