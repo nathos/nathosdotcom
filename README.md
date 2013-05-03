@@ -10,7 +10,7 @@ Amicus features [HTML5 Boilerplate](http://html5boilerplate.com/), [Haml](http:/
 
 ## It's Responsive!
 
-The project features a flexbiel responsive grid based on the [Susy "Magic" grid system](http://susy.oddbird.net/demos/magic/). Try resizing your browser or viewing the page on various mobile devices.
+The project features a flexible responsive grid based on the [Susy "Magic" grid system](http://susy.oddbird.net/demos/magic/). Try resizing your browser or viewing the page on various mobile devices.
 
 ## How do I use it?
 
